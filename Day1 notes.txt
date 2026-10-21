@@ -363,3 +363,9 @@ Beginner advice: learn in this order -> Git -> HTML/CSS/JS ->
 one backend language -> SQL -> deploy a tiny app on EC2 ->
 add tests -> then try RAG with Chroma locally.
 ==========================================================
+
+
+============================
+To continue tomorrow:
+1. Open VS Code in the Git practice folder and start Claude Code there.
+2. Type: Continue my Git mentor course.
