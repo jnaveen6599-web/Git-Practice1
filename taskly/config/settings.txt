@@ -1,3 +1,4 @@
 theme=light
 max_tasks=50
 version=0.1.0
+debug=true
